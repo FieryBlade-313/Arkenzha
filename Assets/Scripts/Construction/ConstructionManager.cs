@@ -48,6 +48,6 @@ public class ConstructionManager
 
     public ConstructionManager()
     {
-        resourceName = resourceName = (ResourceDefinition.ResourceType[])System.Enum.GetValues(typeof(ResourceDefinition.ResourceType));
+        resourceName = (ResourceDefinition.ResourceType[])System.Enum.GetValues(typeof(ResourceDefinition.ResourceType));
     }
 }
